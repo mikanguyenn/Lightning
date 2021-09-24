@@ -10,8 +10,8 @@ void setup()
 }
 void draw()
 {
-  fill(0,0,0,10);
-  rect(-5,-5,501,501);
+  //fill(0,0,0,10);
+  //rect(-5,-5,501,501);
   int r= (int)((Math.random())*100);
   int g= (int)((Math.random())*100);
   int b= (int)((Math.random())*100);
